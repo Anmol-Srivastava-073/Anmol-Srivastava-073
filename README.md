@@ -21,8 +21,7 @@
 
 ---
 
-### 🌟 Featured Projects  
-🔹 **[Notes to the World](https://your-link-here):** Post short messages on a 3D globe  
+### 🌟 Featured Projects    
 🔹 **[Manipal UNINAV](https://mujnavigator.netlify.app):** Campus navigation web app  
 🔹 **[Spin Roulette](https://spinroulette.netlify.app):** Fun spin-based web game  
 
@@ -31,7 +30,7 @@
 ### 📫 Reach Me At  
 📧 **anmolsrivastava073@gmail.com**  
 🌐 [Portfolio Website](https://portfolio-anmolsri0610.vercel.app)  
-💼 [LinkedIn](https://linkedin.com/in/your-link) _(optional)_
+💼 [LinkedIn](https://www.linkedin.com/in/anmol-srivastava-46430727a/) _(optional)_
 
 ---
 
