@@ -30,7 +30,7 @@
 ### 📫 Reach Me At  
 📧 **anmolsrivastava073@gmail.com**  
 🌐 [Portfolio Website](https://portfolio-anmolsri0610.vercel.app)  
-💼 [LinkedIn](https://www.linkedin.com/in/anmol-srivastava-46430727a/) _(optional)_
+💼 [LinkedIn](https://www.linkedin.com/in/anmol-srivastava-46430727a/)
 
 ---
 
