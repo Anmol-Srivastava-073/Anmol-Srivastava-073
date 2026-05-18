@@ -155,6 +155,18 @@
 
 </div>
 
+
+---
+
+## 🏆 Achievements  
+
+<div align="center">
+
+🥇 Contributor at **GirlScript Summer of Code 2026 (GSSoC ’26)**  
+🌍 Contributed to open-source projects and collaborated with developers worldwide  
+
+</div>
+
 ---
 
 ## 📫 Connect  
