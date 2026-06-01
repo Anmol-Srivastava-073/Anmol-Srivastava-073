@@ -50,7 +50,7 @@
 
 ### 🧭 Manipal UNINAV  
 📍 Smart campus navigation system improving accessibility & route discovery  
-🔗 https://mujnavigator.netlify.app  
+🔗 https://manipalmap.vercel.app  
 
 </td>
 
