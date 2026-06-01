@@ -58,7 +58,7 @@
 
 ### ♻️ Verdian  
 🧠 AI-powered waste management platform optimizing collection & sustainability  
-🔗 https://winrchatbot.netlify.app/  
+🔗 https://verdian-wastesystem.vercel.app/
 
 </td>
 </tr>
@@ -68,7 +68,7 @@
 
 ### 🏥 Veritas  
 🤖 Clinical AI chatbot for intelligent medical assistance & query handling  
-🔗 https://veritasbot.netlify.app/
+🔗 https://veritasbot.vercel.app/
 
 </td>
 </tr>
